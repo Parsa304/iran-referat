@@ -1,0 +1,8 @@
+Iran in fuenf Kapiteln - Referat von Azim Norouzi
+
+1. Diesen ganzen Ordner (mit dem Unterordner img) auf den USB-Stick kopieren.
+2. Am Laptop: Rechtsklick auf Iran-Referat.html > Oeffnen mit > Microsoft Edge.
+3. F11 = Vollbild.
+
+Ohne Internet: Text und Bilder funktionieren komplett.
+Die Natural-Stimmen in Edge brauchen Internet; offline gibt es nur die Windows-Stimmen.
